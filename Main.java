@@ -38,11 +38,12 @@ class Main {
     // System.out.println(areEqual);
     // System.out.println(areEqual2);
     // System.out.println(characterLength);
-      boolean run = false;
+      boolean run = true;
     if (run) { 
      System.out.println("WE MADE IT INTO THE if STATEMENT");
       
-    }
+    } 
+    else
     System.out.println("END OF PROGRAM");
   }
 }
